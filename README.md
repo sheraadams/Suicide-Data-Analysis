@@ -5,15 +5,15 @@ In this R script, we can compare suicide rates across different age groups and o
 ## Suicide rate visualizations
 
 <div style="text-align:center;">
-    <img src="https://github.com/sheraadams/Data-Analysis/assets/110789514/36d4a590-d26b-4501-b37e-22e669900a69" width="70%" alt="suicide_rate_line_plot_top20_rotated">
+    <img src="https://github.com/sheraadams/Suicide-Data-Analysis/assets/110789514/07eab97c-3c02-49e2-9927-afeb835fa055" width="70%" alt="suicide_rate_line_plot_top20_rotated">
 </div>
 
 <div style="text-align:center;">
-    <img src="https://github.com/sheraadams/Data-Analysis/assets/110789514/e26911b7-994d-4a33-b6d0-17e83306584d" width="70%" alt="suicide age bar">
+    <img src="https://github.com/sheraadams/Suicide-Data-Analysis/assets/110789514/bcf17e37-55f0-4ba6-881e-88ce99225f01" width="70%" alt="suicide age bar">
 </div>
 
 <div style="text-align:center;">
-    <img src="https://github.com/sheraadams/Data-Analysis/assets/110789514/e2e0551f-9a5c-478a-b5c5-508cecf29258" width="70%" alt="suicide_rate_pie_chart_top20_no_labels">
+    <img src="https://github.com/sheraadams/Suicide-Data-Analysis/assets/110789514/ff64443b-5460-41b2-9fea-6ec0d81cb947" width="70%" alt="suicide_rate_pie_chart_top20_no_labels">
 </div>
 
 ## Insights
@@ -33,3 +33,7 @@ In summary, Lesotho dominates as the top entity in most age groups, while Guyana
 
 ## Dataset
 World Health Organization. (2022). Global Health Observatory Data Repository. Retrieved from https://www.who.int/data/gho
+
+<div style="text-align: center;">
+  <p><strong>Proudly crafted with ❤️ by <a href="https://github.com/sheraadams" target="_blank">Shera Adams</a>.</strong></p>
+</div>
